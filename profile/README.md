@@ -1,7 +1,7 @@
-﻿<div align="center">
+﻿﻿<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-white.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/logo-white.png">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-black.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/logo-black.png">
     <img src="assets/logo-black.png" alt="NineAuth" width="220">
   </picture>
   <br /><br />
