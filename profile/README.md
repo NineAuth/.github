@@ -1,7 +1,7 @@
 ﻿<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/logo-white.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/logo-black.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/logo-white.png">
     <img src="assets/logo-black.png" alt="NineAuth" width="220">
   </picture>
   <br /><br />
@@ -49,8 +49,6 @@ Official client libraries with anti-replay protection and zero local authorizati
 |---|---|---|
 | **C# (.NET · Unity)** | Available — v2.0.0 | [nineauth/sdk-csharp](https://github.com/nineauth/sdk-csharp) |
 | **C++ (Native · Desktop · Unreal)** | Available — v2.0.0 | [nineauth/sdk-cpp](https://github.com/nineauth/sdk-cpp) |
-| **Python** | Planned | — |
-| **Rust** | Planned | — |
 
 All SDKs implement:
 
